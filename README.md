@@ -1,4 +1,4 @@
-# Scripts employed to evaluate the COOPRED DDoS System 
+# Scripts - evaluation the COOPRED DDoS Prediction System 
 This repository presents the scripts and data employed to evaluate the COOPRED DDoS prediction system. 
 A full description of the system is in the journal titled: 
 An Intelligent System for DDoS Attack Prediction Based on Early Warning Signals 
